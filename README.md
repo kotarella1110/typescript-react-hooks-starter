@@ -73,7 +73,7 @@ jobs:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
 ```
 
-### 3. Push a new commit to a `master` branch.
+### 3. Push a new commit to a `master` branch
 
 ```bash
 npm run cz
