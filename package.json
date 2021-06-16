@@ -75,7 +75,7 @@
     "rollup-plugin-typescript2": "^0.30.0",
     "semantic-release": "^17.4.4",
     "ts-jest": "^25.5.1",
-    "typescript": "^3.9.9"
+    "typescript": "^3.9.10"
   },
   "peerDependencies": {
     "react": "^16.8.0"
